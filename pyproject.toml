@@ -7,7 +7,7 @@ python_version = "3.9"
 
 [project]
 name = "my-project"
-version = "1.0.0"
+version = "0.1.0"
 description = "My awesome project"
 authors = ["Your Name <your.email@example.com>"]
 license = "MIT"
