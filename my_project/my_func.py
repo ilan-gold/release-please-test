@@ -1,5 +1,5 @@
 def my_func():
-    return 1
+    return internal_func()
 
 def internal_func():
     return 2
